@@ -183,3 +183,5 @@ declare -p ARR
 __vsc_prompt_cmd_original
 ./fortune.sh
 help
+__vsc_prompt_cmd_original
+help function
