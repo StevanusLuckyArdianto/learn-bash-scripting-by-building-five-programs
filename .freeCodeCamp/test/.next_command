@@ -61,3 +61,5 @@ help
 man echo
 man if
 help if
+arg1
+./countdown.sh arg1
