@@ -167,3 +167,5 @@ echo $NUMBER
 echo $RANDOM % 75
 echo $(( RANDOM % 75 ))
 echo $(( RANDOM % 75 + 1 ))
+./bingo.sh
+./bingo.sh
