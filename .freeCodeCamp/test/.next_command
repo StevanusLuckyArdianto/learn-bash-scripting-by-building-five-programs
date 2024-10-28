@@ -60,3 +60,4 @@ chmod +x countdown.sh
 help
 man echo
 man if
+help if
