@@ -71,3 +71,5 @@ arg1
 ./countdown.sh 4
 ./countdown.sh 5
 help
+help if
+help [[ expression ]]
