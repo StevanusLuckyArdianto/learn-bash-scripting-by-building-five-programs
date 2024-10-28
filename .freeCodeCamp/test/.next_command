@@ -163,3 +163,6 @@ echo $J
 declare -p
 declare -p J
 declare -p RANDOM
+echo $NUMBER
+echo $RANDOM % 75
+echo $(( RANDOM % 75 ))
