@@ -73,3 +73,5 @@ arg1
 help
 help if
 help [[ expression ]]
+help
+help test
