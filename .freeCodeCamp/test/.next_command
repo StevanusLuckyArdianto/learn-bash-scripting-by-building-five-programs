@@ -111,3 +111,4 @@ __vsc_prompt_cmd_original
 help test
 help
 ./countdown.sh 10
+help
