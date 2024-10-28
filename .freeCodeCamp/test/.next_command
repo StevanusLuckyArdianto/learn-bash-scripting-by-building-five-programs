@@ -189,3 +189,9 @@ help function
 ./fortune.sh
 help
 help until
+test?
+./fortune.sh test?
+./fortune.sh test?
+./fortune.sh test?
+./fortune.sh
+__vsc_prompt_cmd_original
