@@ -104,3 +104,4 @@ help [[ -x countdown.sh ]]
 [[ -x countdown.sh || 5 -le 4 ]]
 __vsc_prompt_cmd_original
 [[ -x countdown.sh || 5 -gt 4 ]]
+./countdown.sh 1
