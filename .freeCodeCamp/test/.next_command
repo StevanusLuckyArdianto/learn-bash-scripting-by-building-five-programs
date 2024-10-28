@@ -216,3 +216,4 @@ chmod +x five.sh
 ./five.sh
 ./five.sh
 ./five.sh
+help
